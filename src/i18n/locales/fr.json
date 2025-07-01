@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "explore": "Explorer",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "login": "Connexion",
+    "signup": "Inscription"
+  },
+  "hero": {
+    "title": "Connecter les cœurs, créer des familles",
+    "subtitle": "Votre partenaire de confiance dans le parcours de GPA. Nous mettons en relation les parents intentionnels et les mères porteuses avec compassion, expertise et un soutien inébranlable.",
+    "cta": "Commencez votre voyage",
+    "learn_more": "En savoir plus"
+  },
+  "features": {
+    "title": "Pourquoi choisir Surrogacy Network",
+    "subtitle": "Nous offrons un soutien complet tout au long de votre parcours de GPA",
+    "matching": {
+      "title": "Appariement professionnel",
+      "description": "Notre système d'appariement avancé met en relation les parents intentionnels et les mères porteuses compatibles en fonction des préférences, des valeurs et de la compatibilité."
+    },
+    "support": {
+      "title": "Support 24/7",
+      "description": "Notre équipe de coordinateurs expérimentés, de conseillers et de professionnels de santé est disponible 24h/24."
+    },
+    "legal": {
+      "title": "Conseil juridique",
+      "description": "Un soutien juridique complet pour garantir que toutes les parties sont protégées tout au long du processus de GPA."
+    }
+  },
+  "footer": {
+    "company": "Entreprise",
+    "legal": "Juridique",
+    "support": "Support",
+    "privacy": "Politique de confidentialité",
+    "cookies": "Politique des cookies",
+    "terms": "Conditions d'utilisation",
+    "rights": "Tous droits réservés."
+  },
+  "auth": {
+    "login_title": "Content de vous revoir",
+    "signup_title": "Rejoignez notre communauté",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "name": "Nom complet",
+    "role": "Je suis...",
+    "intended_parent": "Parent intentionnel",
+    "surrogate": "Mère porteuse",
+    "login_button": "Se connecter",
+    "signup_button": "Créer un compte",
+    "no_account": "Pas de compte ?",
+    "have_account": "Vous avez un compte ?"
+  }
+}

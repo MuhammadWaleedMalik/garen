@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "explore": "Explore",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "hero": {
+    "title": "Connecting Hearts, Creating Families",
+    "subtitle": "Your trusted partner in the surrogacy journey. We bring together intended parents and surrogates with compassion, expertise, and unwavering support.",
+    "cta": "Start Your Journey",
+    "learn_more": "Learn More"
+  },
+  "features": {
+    "title": "Why Choose Network Surrogacy",
+    "subtitle": "We provide comprehensive support throughout your surrogacy journey",
+    "matching": {
+      "title": "Expert Matching",
+      "description": "Our advanced matching system connects intended parents with compatible surrogates based on preferences, values, and compatibility."
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock support from our experienced team of coordinators, counselors, and medical professionals."
+    },
+    "legal": {
+      "title": "Legal Guidance",
+      "description": "Comprehensive legal support to ensure all parties are protected throughout the surrogacy process."
+    }
+  },
+  "footer": {
+    "company": "Company",
+    "legal": "Legal",
+    "support": "Support",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  },
+  "auth": {
+    "login_title": "Welcome Back",
+    "signup_title": "Join Our Community",
+    "email": "Email",
+    "password": "Password",
+    "name": "Full Name",
+    "role": "I am a...",
+    "intended_parent": "Intended Parent",
+    "surrogate": "Surrogate",
+    "login_button": "Sign In",
+    "signup_button": "Create Account",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?"
+  }
+}

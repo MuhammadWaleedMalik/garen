@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "explore": "探索",
+    "pricing": "价格",
+    "contact": "联系我们",
+    "login": "登录",
+    "signup": "注册"
+  },
+  "hero": {
+    "title": "连接心灵，创造家庭",
+    "subtitle": "您在代孕旅程中值得信赖的伙伴。我们以同情心、专业知识和坚定不移的支持将准父母和代孕妈妈联系在一起。",
+    "cta": "开始您的旅程",
+    "learn_more": "了解更多"
+  },
+  "features": {
+    "title": "为什么选择网络代孕",
+    "subtitle": "我们在您的代孕旅程中提供全面支持",
+    "matching": {
+      "title": "专业匹配",
+      "description": "我们先进的匹配系统根据偏好、价值观和兼容性将准父母与兼容的代孕妈妈联系起来。"
+    },
+    "support": {
+      "title": "24/7支持",
+      "description": "我们经验丰富的协调员、咨询师和医疗专业人员团队提供全天候支持。"
+    },
+    "legal": {
+      "title": "法律指导",
+      "description": "全面的法律支持，确保所有各方在代孕过程中得到保护。"
+    }
+  },
+  "footer": {
+    "company": "公司",
+    "legal": "法律",
+    "support": "支持",
+    "privacy": "隐私政策",
+    "cookies": "Cookie政策",
+    "terms": "服务条款",
+    "rights": "版权所有。"
+  },
+  "auth": {
+    "login_title": "欢迎回来",
+    "signup_title": "加入我们的社区",
+    "email": "电子邮件",
+    "password": "密码",
+    "name": "全名",
+    "role": "我是...",
+    "intended_parent": "准父母",
+    "surrogate": "代孕妈妈",
+    "login_button": "登录",
+    "signup_button": "创建账户",
+    "no_account": "没有账户？",
+    "have_account": "已有账户？"
+  }
+}

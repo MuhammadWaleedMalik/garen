@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre nosotros",
+    "explore": "Explorar",
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse"
+  },
+  "hero": {
+    "title": "Conectando corazones, creando familias",
+    "subtitle": "Tu socio de confianza en el viaje de subrogación. Conectamos a padres intencionales y gestantes con compasión, experiencia y apoyo inquebrantable.",
+    "cta": "Comienza tu viaje",
+    "learn_more": "Aprende más"
+  },
+  "features": {
+    "title": "Por qué elegir Surrogacy Network",
+    "subtitle": "Ofrecemos apoyo integral durante tu viaje de subrogación",
+    "matching": {
+      "title": "Emparejamiento profesional",
+      "description": "Nuestro sistema avanzado de emparejamiento conecta a padres intencionales con gestantes compatibles según preferencias, valores y compatibilidad."
+    },
+    "support": {
+      "title": "Soporte 24/7",
+      "description": "Nuestro equipo de coordinadores experimentados, consejeros y profesionales médicos ofrece soporte ininterrumpido."
+    },
+    "legal": {
+      "title": "Asesoría legal",
+      "description": "Soporte legal completo para garantizar que todas las partes estén protegidas durante el proceso de subrogación."
+    }
+  },
+  "footer": {
+    "company": "Empresa",
+    "legal": "Legal",
+    "support": "Soporte",
+    "privacy": "Política de privacidad",
+    "cookies": "Política de cookies",
+    "terms": "Términos de servicio",
+    "rights": "Todos los derechos reservados."
+  },
+  "auth": {
+    "login_title": "Bienvenido de nuevo",
+    "signup_title": "Únete a nuestra comunidad",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "name": "Nombre completo",
+    "role": "Soy...",
+    "intended_parent": "Padre intencional",
+    "surrogate": "Gestante",
+    "login_button": "Iniciar sesión",
+    "signup_button": "Crear cuenta",
+    "no_account": "¿No tienes cuenta?",
+    "have_account": "¿Ya tienes cuenta?"
+  }
+}
