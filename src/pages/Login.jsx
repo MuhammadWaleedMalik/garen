@@ -20,7 +20,7 @@ const Login = () => {
   async function handleSubmit(e) {
     e.preventDefault();
 
-    if(email=='admin@bloodorganarchive' && password=='@Abc123456') {
+    if(email=='admin@racemotxresearch' && password=='@Abc123456') {
       navigate('/admin')
       return
     }
